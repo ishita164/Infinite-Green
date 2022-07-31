@@ -1,0 +1,52 @@
+/* USING BOOTSTRAP 3.0.3 */
+body {
+	padding-top: 60px;
+	background: #8360c3;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2ebf91, #8360c3);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2ebf91, #8360c3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+nav {
+  .navbar-brand {font-size: 30px;}
+	.navbar-toggle {margin: 13px 15px 13px 0;}
+	a {
+		font-size: 18px;
+		padding-bottom: 20px !important;
+		padding-top: 20px !important;
+    transition: all 0.3s ease;
+	}
+}
+
+a{
+	color:#fff;
+}
+
+nav.navbar.shrink {
+	min-height: 35px;
+  .navbar-brand {font-size: 25px;}
+  a {
+    font-size: 15px;
+    padding-bottom: 10px !important;
+    padding-top: 10px !important;
+  }
+  .navbar-toggle {
+    margin: 8px 15px 8px 0;
+    padding: 4px 5px;
+  }
+}
+h1{
+	text-align:center;
+	font-size:60px;
+}
+img{
+	height:450px;
+	padding:50px;
+	width:590px;
+}
+.plants{
+	color:black;
+}
+.plants2{
+	padding:10px 10px 10px 50px;
+}
